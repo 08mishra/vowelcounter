@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vowelcounter/static/css/main.eefac3e6.css",
+    "main.js": "/vowelcounter/static/js/main.ceb068bd.js",
+    "static/js/787.85fcdd91.chunk.js": "/vowelcounter/static/js/787.85fcdd91.chunk.js",
+    "index.html": "/vowelcounter/index.html",
+    "main.eefac3e6.css.map": "/vowelcounter/static/css/main.eefac3e6.css.map",
+    "main.ceb068bd.js.map": "/vowelcounter/static/js/main.ceb068bd.js.map",
+    "787.85fcdd91.chunk.js.map": "/vowelcounter/static/js/787.85fcdd91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefac3e6.css",
+    "static/js/main.ceb068bd.js"
+  ]
+}
